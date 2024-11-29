@@ -1,0 +1,23 @@
+.realtedproduct{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+.realtedproduct h1{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.realtedproduct hr{
+    background: #252525;
+    border-radius: 10px;
+    height:6px;
+    width: 200px;
+}
+
+.relatedproduct-item{
+    margin-top:50px ;
+    display: flex;
+    gap: 30px;
+}
