@@ -1,3 +1,13 @@
+# E-Commerce Website (Shoppin)
+
+An e-commerce website built with React, offering users the ability to browse products, view detailed descriptions, and add items to the shopping cart. The app features product search, category filtering, and a seamless checkout process. Utilized React’s component-based structure, state management using (e.g. React Context ) , and hooks for efficient data handling. Integrated a mock API to simulate real-time product data and implemented responsive design for an optimal user experience across devices.
+
+# Screenshot
+Here we have project screenshot :
+
+![screenshot](https://github.com/RahulG-73/E-Commerce-Website/blob/9c182d1923d4f6686449ef1482f306e68036b260/E-Commerce%20ScreenShot.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
